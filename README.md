@@ -14,6 +14,6 @@
 * медиа-запросы для построения адаптива;
 * система контроля версий GIT.
 
-Страница расположена [здесь](https://konstantin-khoroshilov.github.io/moscowhealth-html-letter-v1/).
+Страница расположена [здесь](https://konstantin-khoroshilov.github.io/moscowhealth-html-letter-v1/index.html).
 
 Страница валидна.
